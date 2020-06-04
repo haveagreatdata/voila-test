@@ -1,0 +1,9 @@
+name: haveagreatdata_voila_test
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - jupyter
+  - pandas
+  - plotly
+  - voila
